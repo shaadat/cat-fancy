@@ -1,0 +1,56 @@
+.beginning{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid;
+    text-align: center;
+    font-style: italic;
+    box-shadow: 2px 2px 12px 1px black;
+}
+.options{
+    display: flex;
+    background-color: darkslategray;
+    justify-content: space-between;
+    font-family: cursive;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.catfantacy{ 
+    text-align: center;
+    font-style: italic;
+}
+.event{
+    text-align:center;
+    /* margin: 150px; */ 
+    padding-left: 120px;
+}
+
+.view{
+    text-align: center;
+}
+.featured{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+.judge{
+    height:100px;
+    width: auto;
+    text-align: center;
+}
+.peace{
+    height:100px;
+    width: auto;
+    text-align: center;
+    padding-top: 200px;
+}
+.event2{
+    padding-top: 200px;
+    text-align: center;
+}
+
+    
